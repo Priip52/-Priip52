@@ -15,6 +15,8 @@
 
 ### Sobre mim
 
+Sou cientista de dados e estudante de Matemática Aplicada na FMU, conforme minha [bio pública no GitHub](https://github.com/Priip52).
+
 Meu interesse está na conexão entre fundamentos matemáticos, análise de dados e aplicações computacionais. Quero aprofundar essa conexão em **IA e machine learning**, com atenção à interpretabilidade e à avaliação rigorosa de métodos.
 
 Este espaço reúne projetos e interesses que aproximam problemas concretos de implementações que podem ser inspecionadas.

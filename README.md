@@ -8,7 +8,7 @@
 <p align="center">
   <a href="#-projeto-em-destaque">Projeto em destaque</a> ·
   <a href="#-interesses-de-pesquisa">Interesses de pesquisa</a> ·
-  <a href="mailto:priips.m@gmail.com">Contato</a>
+  <a href="mailto:priiscila52@outlook.com">Contato</a>
 </p>
 
 ---
@@ -70,7 +70,7 @@ Essa frente conecta geometria, dados e pesquisa quantitativa. Ainda não há um 
 
 Tenho interesse em conversas sobre **projetos em dados, IA e pesquisa em matemática aplicada**.
 
-**[priips.m@gmail.com](mailto:priips.m@gmail.com)**
+**[priiscila52@outlook.com](mailto:priiscila52@outlook.com)**
 
 <p align="center">
   <sub>Fundamentos matemáticos · Aplicações concretas · Métodos transparentes</sub>

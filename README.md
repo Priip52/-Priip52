@@ -1,55 +1,77 @@
 <h1 align="center">Olá, eu sou a Priscila 👋</h1>
 
 <p align="center">
-  <em>Quant researcher em formação — geometria, dados e mercados.</em>
+  <strong>Ciência de Dados · Matemática aplicada</strong><br>
+  Foco em inteligência artificial e machine learning
 </p>
 
 <p align="center">
-  🔭 Desenvolvendo estratégias quantitativas &nbsp;·&nbsp;
-  📈 Finanças + Ciência de Dados &nbsp;·&nbsp;
-  🧮 Curvatura de Ricci aplicada a mercados
+  <a href="#-projeto-em-destaque">Projeto em destaque</a> ·
+  <a href="#-interesses-de-pesquisa">Interesses de pesquisa</a> ·
+  <a href="mailto:priips.m@gmail.com">Contato</a>
 </p>
 
 ---
 
-### 🛠️ Stack
+### Sobre mim
+
+Meu interesse está na conexão entre fundamentos matemáticos, análise de dados e aplicações computacionais. Quero aprofundar essa conexão em **IA e machine learning**, com atenção à interpretabilidade e à avaliação rigorosa de métodos.
+
+Este espaço reúne projetos e interesses que aproximam problemas concretos de implementações que podem ser inspecionadas.
+
+### 🧩 Projeto em destaque
+
+## MaterSphere Silver
+**Dados e regras explicáveis para apoiar a priorização de contatos de agendamento.**
+
+MVP demonstrativo voltado a situações em que pessoas idosas podem encontrar barreiras para comparecer a consultas. A aplicação organiza informações e apresenta uma recomendação operacional para revisão humana.
+
+| Etapa | O que a implementação faz |
+| :--- | :--- |
+| **Entrada** | Recebe mensagens em português e dados sintéticos de agenda |
+| **Análise** | Identifica termos por vocabulário explícito e combina fatores em um score baseado em regras |
+| **Explicação** | Mostra os fatores que compõem a pontuação |
+| **Acompanhamento** | Organiza a fila da sessão e permite exportação CSV |
+| **Acessibilidade** | Oferece ajustes de contraste e tamanho do texto |
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+  <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white">
 </p>
+
+**[Explorar o projeto →](https://github.com/Priip52/AxisTech)** · [Ver a implementação](https://github.com/Priip52/AxisTech/blob/main/app.py) · [Como executar](https://github.com/Priip52/AxisTech#como-executar)
+
+> **Escopo do protótipo:** usa dados sintéticos e regras explícitas. O score é uma escala demonstrativa de priorização operacional, não uma probabilidade clínica. Não realiza diagnóstico nem dispara contatos automaticamente.
+
+### 🔬 Interesses de pesquisa
+
+- **IA e machine learning:** aprofundar métodos de aprendizagem, comparação de abordagens e avaliação de resultados.
+- **Interpretabilidade:** compreender e comunicar os fatores por trás de uma recomendação.
+- **Matemática aplicada:** explorar representações e estruturas matemáticas para analisar dados.
+- **Geometria e redes:** investigar conexões entre relações, estrutura e comportamento de sistemas.
+
+O MaterSphere Silver oferece um ponto de partida para uma pergunta que desejo aprofundar: **como comparar regras explícitas e modelos aprendidos, preservando a clareza das recomendações?**
+
+<details>
+<summary><strong>Outra frente de interesse · Arche e geometria de mercados</strong></summary>
+
+<br>
+
+**Arche** é a proposta apresentada neste perfil para explorar a curvatura de Ollivier–Ricci em redes de correlação do mercado financeiro.
+
+Essa frente conecta geometria, dados e pesquisa quantitativa. Ainda não há um link público para o código do Arche neste README.
+
+</details>
 
 ---
 
-### 📊 GitHub em números
+### 🤝 Vamos conversar
+
+Tenho interesse em conversas sobre **projetos em dados, IA e pesquisa em matemática aplicada**.
+
+**[priips.m@gmail.com](mailto:priips.m@gmail.com)**
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Priip52&show_icons=true&hide_border=true&theme=nightowl&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priip52&layout=compact&hide_border=true&theme=nightowl" />
+  <sub>Fundamentos matemáticos · Aplicações concretas · Métodos transparentes</sub>
 </p>
-
----
-
-### 🚀 Projeto em destaque
-
-**Arche — Curvatura de Ricci como sinal geométrico na B3**
-Estratégia quantitativa que mede a *geometria da rede de correlações* do mercado
-(curvatura de Ollivier-Ricci) em vez do preço de cada ativo isolado. Desenvolvida
-para o **Desafio Quant AI 2026 · Itaú Asset**, com foco em rigor de validação:
-walk-forward líquido de custos, ortogonalidade a fatores e testes anti-viés.
-🔗 *(repositório em breve)*
-
----
-
-### 🤝 Contato
-
-<p>
-  <a href="mailto:priips.m@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="SEU_LINKEDIN_AQUI"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-</p>
-
-<p align="center"><sub>"Antes do preço, a geometria."</sub></p>
